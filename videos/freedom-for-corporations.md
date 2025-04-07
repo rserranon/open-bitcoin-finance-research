@@ -19,16 +19,15 @@ In his recent MIT presentation, Phong Le noted that the income statement, rather
 ### Section Title / Timestamp: 10:10 / Chapter  
 
 - ✍️ Key Idea: smart people create wealth from their balance sheet
-- 📌 **Pillar - [Name]**: Relevance to framework  
+- 📌 **Pillar - [Treasury Strategy & Bitcoin as Reserve Asset]**: Treaury mgmt is no different than universities and people
 - 🗒 **Post Idea**: [Optional] Title or concept  
-- 🔗 **Pillars**: Pillar1, Pillar2, ... [Optional, if post idea applies to multiple]
+- 🔗 **Pillars**: Treasury Strategy & Bitcoin as Reserve Asset, Pillar2, ... [Optional, if post idea applies to multiple]
 
 ---
 
 ## Personal Reflections  
 
-What you thought, found insightful, or challenged your view.
-
+Companies, governments, universities and people consider the value of asset classes in their balance sheet and understand that value can be created by correctly and proactively manage it
 ---
 
 ## Framework Impact  
@@ -39,4 +38,4 @@ Ideas or updates to apply to Strategic Bitcoin Finance.
 
 ## Source  
 
-[https://x.com/saylor/status/1908935262417145910?s=46&t=ztG35HXBBU68tql6K03stg] 
+[https://x.com/saylor/status/1908935262417145910?s=46&t=ztG35HXBBU68tql6K03stg]

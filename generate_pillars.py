@@ -2,7 +2,7 @@ import os
 import re
 
 # Where your markdown files live
-folders = ["books", "articles", "podcasts"]
+folders = ["books", "articles", "podcasts", "videos"]
 output_file = "content/strategic-pillars.md"
 
 pillar_blocks = {}
